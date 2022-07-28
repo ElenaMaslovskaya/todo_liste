@@ -1,0 +1,9 @@
+.todolist {
+   display: flex;
+   margin: 0 auto;
+}
+
+.todolist__list {
+   list-style: none;
+   padding: 0;
+}

@@ -1,0 +1,15 @@
+.todo-add__form {
+   margin-bottom: 20px;
+}
+
+.todo-add__input {
+   width: 40vw;
+}
+
+.todo-add__title {
+   margin: 10px 0;
+}
+
+.todo-add {
+   margin-right: auto;
+}
